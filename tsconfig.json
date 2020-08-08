@@ -1,7 +1,8 @@
 {
   "compilerOptions": {
-    "target": "esnext",
-    "module": "esnext",
+    "outDir": "./build",
+    "target": "es5",
+    "module": "es6",
     "strict": true,
     "jsx": "preserve",
     "importHelpers": true,
