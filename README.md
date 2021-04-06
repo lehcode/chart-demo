@@ -1,4 +1,4 @@
-# charts-demo
+# VueJS+ChartJS Demo
 
 ## Project setup
 ```
